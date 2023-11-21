@@ -411,7 +411,7 @@ session_start(); //start temp session until logout/browser closed
                             <h5>Phone: <a href="tel:+880 1634041585">+880 1634041585</a></h5> </div>
                         <div class="col-xs-12 col-sm-5 additional-info color-gray">
                             <h5>Addition informations</h5>
-                            <p>Join the thousands of other restaurants who benefit from having their menus on TakeOff</p>
+                            <p>Join the thousands of other restaurants who benefit from having their meals on TakeOff</p>
                         </div>
                     </div>
                 </div>
